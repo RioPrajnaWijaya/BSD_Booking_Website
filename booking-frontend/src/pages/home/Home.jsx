@@ -12,7 +12,7 @@ const Home = () => {
       <Navbar />
       <Header/>
       <div className="homeContainer">
-        <h1 className="homeTitle">Browse your type</h1>
+        <h1 className="homeTitle">Browse your types</h1>
         <PropertyList/>
         <h1 className="homeTitle">BSD featured</h1>
         <FeaturedProperties/>
